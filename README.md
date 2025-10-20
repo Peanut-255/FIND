@@ -17,9 +17,16 @@ The code is being sorted out and will be coming soon! For any questions, please 
   <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-Overview.png" alt="Teaser Image" width="600">
 </div>
 
-## 🐚 Method Illustration & Contributions
+## 🐚 Method Illustration
 
-![Teaser Image](https://github.com/Peanut-255/image-hosting/blob/main/NIPS-method.png?raw=true)
+The proposed FIND involves three novel designs, including layer-wise feature disentanglement (LFD), feature-aware batch normalization (FABN) and selective FABN (S-FABN).
+
+* 1️⃣ We introduce the pioneering test-time normalization framework specifically designed for realistic dynamic scenarios, addressing the limitations of current one-size-fits-all normalization approaches in practical applications.
+* 2️⃣ Our method employs instance-level statistics to identify and cluster features with similar distributions, achieving robust dynamic adaptation through the aggregation of group-specific knowledge and generic knowledge from the source domain.
+  
+<div align="center">
+  <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-method.png?raw=true" alt="Teaser Image" width="600">
+</div>
 
 
 ## 🎓 Citation
