@@ -7,8 +7,7 @@ This is the official project repository for [Feature-Based Instance Neighbor Dis
 The code is being sorted out and will be coming soon! For any questions, please contact jqt23@mails.tsinghua.edu.cn.
 
 
-
-![Teaser Image][img_TBN_Finetuning2.pdf](https://github.com/user-attachments/files/22996195/img_TBN_Finetuning2.pdf)
+[img_TBN_Finetuning2.pdf](https://github.com/user-attachments/files/22996195/img_TBN_Finetuning2.pdf)
 
 
 
