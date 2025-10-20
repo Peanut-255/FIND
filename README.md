@@ -14,7 +14,7 @@ The code is being sorted out and will be coming soon! For any questions, please 
 >  This innovative strategy delivers approximately **5%-10% accuracy improvements** in dynamic scenarios, all while maintaining efficient inference.
 
 <div align="center">
-  <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-Overview.png" alt="Teaser Image" width="400">
+  <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-Overview.png" alt="Teaser Image" width="500">
 </div>
 
 ## 🐚 Method Illustration
