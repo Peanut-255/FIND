@@ -37,6 +37,8 @@ The proposed FIND involves three novel designs, including layer-wise feature dis
 
 ## 🍀 Results on Corruption Datasets
 
+The table below demonstrates the performance of FIND on the corruption datasets, significantly surpassing existing baselines.
+
 <div align="center">
   <img src="https://github.com/Peanut-255/image-hosting/blob/main/results.png?raw=true" alt="Teaser Image" width="800">
 </div>
