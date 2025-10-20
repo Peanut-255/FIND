@@ -35,6 +35,13 @@ The proposed FIND involves three novel designs, including layer-wise feature dis
   <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-method.png?raw=true" alt="Teaser Image" width="1000">
 </div>
 
+## 🍀 Results on Corruption Datasets
+
+<div align="center">
+  <img src="https://github.com/Peanut-255/image-hosting/blob/main/results.png?raw=true" alt="Teaser Image" width="800">
+</div>
+
+
 
 ## 🎓 Citation
 
