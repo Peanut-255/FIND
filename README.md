@@ -15,6 +15,9 @@ The code is being sorted out and will be coming soon! For any questions, please 
 
 ![Teaser Image](https://github.com/Peanut-255/image-hosting/blob/main/NIPS-Overview.png)
 
+## 🐚 Method Illustration & Contributions
+
+![Teaser Image](https://github.com/Peanut-255/image-hosting/blob/main/NIPS-method.png?raw=true)
 
 
 ## 🎓 Citation
