@@ -17,6 +17,13 @@ The code is being sorted out and will be coming soon! For any questions, please 
   <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-Overview.png" alt="Teaser Image" width="500">
 </div>
 
+## 🍀 Acknowledgements
+
+We owe special thanks to the **LINs-lab** —without their excellent open-source framework, this project would simply not exist.
+
+Their work [TTAB 🔗](https://github.com/LINs-lab/ttab) laid the foundation for everything we've built.
+
+
 ## 🐚 Method Illustration
 
 The proposed FIND involves three novel designs, including layer-wise feature disentanglement (LFD), feature-aware batch normalization (FABN) and selective FABN (S-FABN).
