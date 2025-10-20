@@ -14,7 +14,7 @@ The code is being sorted out and will be coming soon! For any questions, please 
 >  This innovative strategy delivers approximately **5%-10% accuracy improvements** in dynamic scenarios, all while maintaining efficient inference.
 
 <div align="center">
-  <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-Overview.png" alt="Teaser Image" width="600">
+  <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-Overview.png" alt="Teaser Image" width="400">
 </div>
 
 ## 🐚 Method Illustration
@@ -25,7 +25,7 @@ The proposed FIND involves three novel designs, including layer-wise feature dis
 * 2️⃣ Our method employs instance-level statistics to identify and cluster features with similar distributions, achieving robust dynamic adaptation through the aggregation of group-specific knowledge and generic knowledge from the source domain.
   
 <div align="center">
-  <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-method.png?raw=true" alt="Teaser Image" width="600">
+  <img src="https://github.com/Peanut-255/image-hosting/blob/main/NIPS-method.png?raw=true" alt="Teaser Image" width="1000">
 </div>
 
 
